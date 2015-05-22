@@ -1,0 +1,43 @@
+方法
+------------
+
+Lime自带一些方法以便调用：
+
+    $app->service();
+    $app->stop();
+    $app->isExit();
+    $app->baseUrl();
+    $app->base();
+    $app->routeUrl();
+    $app->route();
+    $app->reroute();
+    $app->set();
+    $app->retrieve();
+    $app->path();
+    $app->pathToUrl();
+    $app->cache();
+    $app->onlyif();
+    $app->trigger();
+    $app->render();
+    $app->start();
+    $app->end();
+    $app->block();
+    $app->escape();
+    $app->param();
+    $app->style();
+    $app->script();
+    $app->assets();
+    $app->get();
+    $app->post();
+    $app->bindClass();
+    $app->bindNamespace();
+    $app->bind();
+    $app->run();
+    $app->invoke();
+    $app->req_is();
+    $app->getClientIp();
+    $app->getClientLang();
+    $app->getSiteUrl();
+    $app->hash();
+    $app->encode();
+    $app->decode();

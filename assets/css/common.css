@@ -1,0 +1,30 @@
+*{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+[class^="icon-"]::before,[class*=" icon-"]::before{vertical-align:baseline;line-height:1em;color:inherit}
+i.icon{text-align:center;background-image:none}
+body .pull-center{display:block;margin-left:auto;margin-right:auto}
+body{padding-left:0;padding-right:0}
+.navbar.navbar-inverse{height:42px}
+.navbar.navbar-inverse .navbar-inner{height:42px;padding-left:20px;padding-right:20px}
+.container{width:94%}
+.container .row-fluid{margin:20px 0 0 0}
+.container-fluid p{text-align:center;margin:20px 0 10px 0}
+.container .row-fluid .span3 .well p{margin:20px 0 10px 0;line-height:12px}
+.jumbotron h1{font-size:100px;line-height:1}
+.jumbotron{margin:80px 0;text-align:center}
+.jumbotron a.btn-inverse{margin-top:20px}
+p.editmd{text-align:right}
+.wmd-button-bar{width:100%;background-color:Silver}
+.wmd-input{height:300px;width:100%}
+.wmd-preview{padding:5px}
+.wmd-button-row{position:relative;margin-left:5px;margin-right:5px;margin-bottom:5px;margin-top:10px;padding:0;height:20px}
+.wmd-spacer{width:1px;height:20px;margin-left:14px;position:absolute;background-color:Silver;display:inline-block;list-style:none}
+.wmd-button{width:20px;height:20px;padding-left:2px;padding-right:3px;position:absolute;display:inline-block;list-style:none;cursor:pointer}
+.wmd-button>span{background-image:url(../images/wmd-buttons.png);background-repeat:no-repeat;background-position:0 0;width:20px;height:20px;display:inline-block}
+.wmd-spacer1{left:50px}
+.wmd-spacer2{left:175px}
+.wmd-spacer3{left:300px}
+.wmd-prompt-background{background-color:Black}
+.wmd-prompt-dialog{border:1px solid #999;background-color:#f5f5f5}
+.wmd-prompt-dialog>div{font-size:.8em;font-family:arial,helvetica,sans-serif}
+.wmd-prompt-dialog>form>input[type="text"]{border:1px solid #999;color:black}
+.wmd-prompt-dialog>form>input[type="button"]{border:1px solid #888;font-family:trebuchet MS,helvetica,sans-serif;font-size:.8em;font-weight:bold}
