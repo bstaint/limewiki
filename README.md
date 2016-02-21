@@ -22,9 +22,6 @@ lime framework example
 - 更新主菜单，侧边栏导航菜单输出方式.
 - 添加highlight.js高亮代码功能.
 
-### 在线预览 ###
-http://labs.bstaint.net/lime/
-
 [pagedown.js]: https://code.google.com/p/pagedown/
 [lime]: https://github.com/aheinze/Lime
 [cimarkdown]: https://github.com/vamsiikrishna/cimarkdown
