@@ -17,11 +17,11 @@ $app['config.begin_point'] = microtime();
 
 $app['config.site'] = array(
     'name' => 'Lime 手册',
-    'key' => '755dd7d3da603833281e7cb99355d60d',
+    'key' => '',
     'master' => 'bstaint',
-    'email' => 'bstaint@gmail.com',
+    'email' => '',
     'downurl' => 'https://github.com/aheinze/Lime/archive/master.zip',
-    'sourceurl' => 'http://www.github.com/bstaint/limewiki'
+    'sourceurl' => 'https://github.com/bstaint/limewiki'
 );
 
 $app['config.menus' ] = array(
